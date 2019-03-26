@@ -1,0 +1,22 @@
+.stock-container {
+  padding: 16px;
+  padding-bottom: 4px;
+  border: 1px solid #F0F0F0;
+  margin: 4px;
+  width: 800px;
+  border-radius: 5px;
+}
+
+.financial-container {
+  padding-top: 4px;
+  padding: 16px;
+}
+
+.chart-title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table-title {
+  display: flex; 
+}
